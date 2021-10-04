@@ -1,5 +1,5 @@
 # week-01_homework-01
-
+talal obaidallah
 ## **Using Terminal**, Practice this small exercise
 
  - Look up your current path
