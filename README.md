@@ -1,3 +1,5 @@
+Done homework
+
 # week-01_homework-01
 
 ## **Using Terminal**, Practice this small exercise
