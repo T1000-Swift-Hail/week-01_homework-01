@@ -1,7 +1,7 @@
 # week-01_homework-01
 
 ## **Using Terminal**, Practice this small exercise
-
+dlfgkgjfk
  - Look up your current path
  - Go inside your Desktop folder
  - Create a new folder named “I am” in your Desktop using Terminal
