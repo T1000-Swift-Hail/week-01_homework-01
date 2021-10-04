@@ -1,4 +1,4 @@
-# week-01_homework-01
+HomeWork IS Done # week-01_homework-01
 
 ## **Using Terminal**, Practice this small exercise
 
