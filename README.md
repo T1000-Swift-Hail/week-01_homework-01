@@ -1,4 +1,7 @@
 # week-01_homework-01
+var firstName : stroing
+firetName = Sultan
+
 
 ## **Using Terminal**, Practice this small exercise
 
